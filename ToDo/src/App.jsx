@@ -58,7 +58,7 @@ function App() {
           </div>
         </main>
         <footer className="py-6 text-center text-white/70 text-sm font-medium animate-fade-in-slow">
-          Made with <span className="text-pink-400">♥</span> by YourName
+          Made with <span className="text-pink-400">♥</span> by Ahsan Mughal
         </footer>
       </div>
     </ToDoProvider>
